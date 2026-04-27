@@ -1,6 +1,7 @@
 # 📊 Analyse et Visualisation des Ventes dans Tableau
 
-![Image du Dashboard](LIEN_DE_VOTRE_IMAGE_ICI)
+<img width="1535" height="856" alt="Sales dashboard_TABLEAU_" src="https://github.com/user-attachments/assets/10c539d0-b640-4988-8150-871ba8963006" />
+
 
 ## 📝 Présentation du Projet
 Ce projet consiste en la création d'un dashboard décisionnel interactif visant à analyser les performances commerciales, les tendances de ventes et la satisfaction client. L'objectif est de transformer plusieurs sources de données brutes en un outil visuel permettant de piloter l'activité de manière agile.
